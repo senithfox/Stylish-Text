@@ -52,7 +52,6 @@ this is my personal project
 
 ![image](3.png)
 
-# please add star ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
 
